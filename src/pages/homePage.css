@@ -1,0 +1,15 @@
+.body-container{
+
+    height: 115vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-separator {
+    border: none;
+    border-top: 1px solid #e5e7eb; /* Light gray color, adjust as needed */
+    margin: 0; /* Adjust margins as needed */
+  }
+  
