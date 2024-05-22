@@ -1,0 +1,4 @@
+.carousel-item {
+    padding: 10px; /* Adjust this value to control the gap */
+    box-sizing: border-box;
+  }

@@ -50,6 +50,9 @@ const ProductDetail = () => {
       <div className="flex justify-center w-2/3 p-4">
         <img
           className="max-w-[70%]"
+          style={{
+            height:"fit-content"
+          }}
           src={product.displayImage}
           alt="Loading"
         />
